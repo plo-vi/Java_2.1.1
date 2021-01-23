@@ -11,3 +11,19 @@ public class Main {
         System.out.printf("%.2f", milesNumber);
     }
 }
+
+// version 2 of realisation the task
+//
+// public class Main {
+//     public static void main(String[] args) {
+//         long ticketSellKop = 12500_50;
+// 
+//         if (ticketSellKop < 0) {
+//             ticketSellKop = 0;
+//         }
+//
+//         long milesNumber = ticketSellKop / 20 / 100;
+// 
+//         System.out.println(milesNumber);
+//     }
+// }
