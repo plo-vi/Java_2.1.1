@@ -16,13 +16,13 @@ public class Main {
 //
 // public class Main {
 //     public static void main(String[] args) {
-//         long ticketSellKop = 12500_50;
+//         int ticketSellKop = 12500_50;
 // 
 //         if (ticketSellKop < 0) {
 //             ticketSellKop = 0;
 //         }
 //
-//         long milesNumber = ticketSellKop / 20 / 100;
+//         int milesNumber = ticketSellKop / 20 / 100;
 // 
 //         System.out.println(milesNumber);
 //     }
